@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "PulseVote",
+    "slug": "pulsevote",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.example.pulsevote"
+    },
+    "android": {
+      "package": "com.example.pulsevote"
+    },
+    "plugins": [
+      "expo-notifications"
+    ]
+  }
+}
